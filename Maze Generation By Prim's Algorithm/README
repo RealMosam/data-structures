@@ -6,5 +6,8 @@ This Project Was Developed By:
 
 For Running The Program:
 
-1. Run the main method of MazeGenerator.java
-2. If you want any further modifications it can be done by removing specific comments.
+1. Use any JAVA IDE (I used Eclipse).
+2. Download as zip.
+3. Open as existing project in File>Exisiting Project.
+4. Run the main method of MazeGenerator.java
+5. If you want any further modifications it can be done by removing specific comments.
